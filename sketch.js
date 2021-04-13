@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  background(221, 72, 20);
+  background(236, 111, 24);
   frameRate(30);
   stroke(000);
   // Let's pick an angle 0 to 90 degrees based on the mouse position
